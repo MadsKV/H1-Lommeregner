@@ -9,11 +9,11 @@ namespace main
     {
         Console.Writeline();
 
-
-        Det er for adafasfdsfdfdsffd
-
         blahblahblah
     }
     Hej med dig
 }
+
+        Det er for 
+
 
