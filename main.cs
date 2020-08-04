@@ -17,6 +17,6 @@ namespace main
         blahblah
 }
 
-        Det er for 
+        Det her er Jack Console
 
 
