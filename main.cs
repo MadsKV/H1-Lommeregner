@@ -9,5 +9,6 @@ namespace main
         Console.Writeline();
         blahblahblah
     }
+    Hej med dig
 }
 
