@@ -9,8 +9,10 @@ namespace main
     {
         Console.Writeline();
 
+
         Det er for adafasfdsfdfdsffd
 
+        blahblahblah
     }
 }
 
