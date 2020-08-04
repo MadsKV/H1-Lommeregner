@@ -9,7 +9,7 @@ namespace main
     {
         Console.Writeline();
 
-        Det er for adafasf
+        Det er for adafasfdsfdfdsffd
 
     }
 }
