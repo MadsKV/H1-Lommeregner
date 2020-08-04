@@ -7,7 +7,7 @@ namespace main
     static void Main()
     {
         Console.Writeline();
-        blahblah
+        blahblahblah
     }
 }
 
