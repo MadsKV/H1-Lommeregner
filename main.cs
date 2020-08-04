@@ -17,6 +17,10 @@ namespace main
         blahblah
 }
 
+
         Det eifjapojfa
+
+        Det her er Jack Console
+
 
 
