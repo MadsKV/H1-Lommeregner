@@ -2,7 +2,11 @@ using system;
 using Calculator_methods;
 
 namespace main
-
+    class Program
 {
-sadsadasf
+    static void Main()
+    {
+        Console.Writeline();
+    }
 }
+
