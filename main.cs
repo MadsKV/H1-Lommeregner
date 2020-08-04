@@ -4,6 +4,7 @@ using Calculator_methods;
 namespace main
     class Program
 {
+<<<<<<< HEAD
     static void Main()
     {
         Console.Writeline();
@@ -12,3 +13,7 @@ namespace main
     Hej med dig
 }
 
+=======
+
+}
+>>>>>>> parent of 362781a... whatever 2
