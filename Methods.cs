@@ -1,9 +1,12 @@
 ﻿using System;
 
-public class methodsClass
+namespace Calculator_mehtods
 {
-	public methodsClass()
-	{
-		2+2+++2
-	}
+    public static class methodsClass
+    {
+        public static int Add(int x, int y)
+        {
+
+        }
+    }
 }
