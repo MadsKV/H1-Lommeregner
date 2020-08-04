@@ -8,7 +8,10 @@ namespace main
     static void Main()
     {
         Console.Writeline();
+<<<<<<< HEAD
         blahblahblah
+=======
+>>>>>>> parent of 3932da0... conflict
     }
     Hej med dig
 }
