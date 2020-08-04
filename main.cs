@@ -9,12 +9,16 @@ namespace main
     {
         Console.Writeline();
 
-
-        Det er for adafasfdsfdfdsffd
-
         blahblahblah
     }
     Hej med dig
         blahblah
 }
+
+
+        Det eifjapojfa
+
+        Det her er Jack Console
+
+
 
