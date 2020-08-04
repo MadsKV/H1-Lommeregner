@@ -15,8 +15,9 @@ namespace main
         blahblah
 }
 
-
         Det eifjapojfa
+
+        Det er for
 
         Det her er Jack Console
 
