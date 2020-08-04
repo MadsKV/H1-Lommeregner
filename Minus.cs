@@ -6,5 +6,6 @@ public class MinusClass
 	{
 		//Minus calculation
 		Console.WriteLine("Fuck af");
+		
 	}
 }
