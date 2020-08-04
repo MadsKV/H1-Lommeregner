@@ -1,9 +1,10 @@
 ﻿using System;
 
-public class Class1
+public class PlusClass
 {
-	public Class1()
+	public PlusClass()
 	{
-		hej
+		//Plus calculation
+		Console.WriteLine("Fuck af");
 	}
 }
