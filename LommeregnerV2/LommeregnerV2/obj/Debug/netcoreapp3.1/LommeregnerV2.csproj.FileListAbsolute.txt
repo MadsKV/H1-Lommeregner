@@ -11,3 +11,16 @@ C:\Users\Elder\Source\Repos\H1-Lommeregner\LommeregnerV2\LommeregnerV2\bin\Debug
 C:\Users\Elder\Source\Repos\H1-Lommeregner\LommeregnerV2\LommeregnerV2\obj\Debug\netcoreapp3.1\LommeregnerV2.dll
 C:\Users\Elder\Source\Repos\H1-Lommeregner\LommeregnerV2\LommeregnerV2\obj\Debug\netcoreapp3.1\LommeregnerV2.xml
 C:\Users\Elder\Source\Repos\H1-Lommeregner\LommeregnerV2\LommeregnerV2\obj\Debug\netcoreapp3.1\LommeregnerV2.pdb
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\bin\Debug\netcoreapp3.1\LommeregnerV2.exe
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\bin\Debug\netcoreapp3.1\LommeregnerV2.deps.json
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\bin\Debug\netcoreapp3.1\LommeregnerV2.runtimeconfig.json
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\bin\Debug\netcoreapp3.1\LommeregnerV2.runtimeconfig.dev.json
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\bin\Debug\netcoreapp3.1\LommeregnerV2.dll
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\bin\Debug\netcoreapp3.1\LommeregnerV2.pdb
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\bin\Debug\netcoreapp3.1\LommeregnerV2.xml
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\obj\Debug\netcoreapp3.1\LommeregnerV2.csprojAssemblyReference.cache
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\obj\Debug\netcoreapp3.1\LommeregnerV2.AssemblyInfoInputs.cache
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\obj\Debug\netcoreapp3.1\LommeregnerV2.AssemblyInfo.cs
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\obj\Debug\netcoreapp3.1\LommeregnerV2.dll
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\obj\Debug\netcoreapp3.1\LommeregnerV2.xml
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\LommeregnerV2\LommeregnerV2\obj\Debug\netcoreapp3.1\LommeregnerV2.pdb

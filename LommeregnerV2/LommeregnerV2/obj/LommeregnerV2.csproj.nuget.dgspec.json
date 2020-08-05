@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elder\\Source\\Repos\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\LommeregnerV2.csproj": {}
+    "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\LommeregnerV2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elder\\Source\\Repos\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\LommeregnerV2.csproj": {
+    "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\LommeregnerV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elder\\Source\\Repos\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\LommeregnerV2.csproj",
+        "projectUniqueName": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\LommeregnerV2.csproj",
         "projectName": "LommeregnerV2",
-        "projectPath": "C:\\Users\\Elder\\Source\\Repos\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\LommeregnerV2.csproj",
-        "packagesPath": "C:\\Users\\Elder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elder\\Source\\Repos\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\obj\\",
+        "projectPath": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\LommeregnerV2.csproj",
+        "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\LommeregnerV2\\LommeregnerV2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Elder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
