@@ -1,0 +1,25 @@
+Hvad er formålet med dokumentation:
+
+-1 Kontrol over sin kode
+-2 Bedre overblik
+-3 Backup
+-4 Gør det nemt for uvedkommende at læse
+-5 
+
+Hvordan vil i gribe det an hvis i skulle beskrive et program og begrunde jeres valg:
+
+-1 At lave kommentare til programmet
+-2 At gøre kode ""Pænt"" så det er nemt at overskue og gå til
+-3 Lave commit beskeder når bruger github
+-4 Sørg for at gøre det overskueligt med hjælp af github
+-5 Brug flere "kasser" (OOP)
+-6 
+
+
+Hvilke værktøjer vil i bruge:
+
+-1 Github
+-2 Læren
+-3 Kommentare
+-4 Google/Nettet
+-5 
