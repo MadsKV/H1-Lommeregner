@@ -12,7 +12,7 @@ namespace Calculator_mehtods
             return answer;
         }
         /// <summary>
-        /// Divide the 2 number 
+        /// Divide the two numbers with each others
         /// </summary>
         /// <param name="x"></param>
         /// <param name="y"></param>
@@ -24,7 +24,12 @@ namespace Calculator_mehtods
             double answer = number1 / number2;
             return answer;
         }
-        
+        /// <summary>
+        /// Multipls the two numbers with each others
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <returns></returns>
         public static double Multiply(double x, double y)
         {
             double number1 = x;
