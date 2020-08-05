@@ -4,5 +4,42 @@
         <name>LommeregnerV2</name>
     </assembly>
     <members>
+        <member name="T:Calculator_mehtods.methodsClass">
+            <summary>
+            Calculator methods
+            </summary>
+        </member>
+        <member name="M:Calculator_mehtods.methodsClass.Add(System.Double,System.Double)">
+            <summary>
+            Adds the given numbers together
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Calculator_mehtods.methodsClass.Divide(System.Double,System.Double)">
+            <summary>
+            Divide the two numbers with each others
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Calculator_mehtods.methodsClass.Multiply(System.Double,System.Double)">
+            <summary>
+            Multipls the two numbers with each others
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Calculator_mehtods.methodsClass.Substraction(System.Double,System.Double)">
+            <summary>
+            Subtracts the given numbers
+            </summary>
+            <param name="x"></param>
+            <param name="y"></param>
+            <returns></returns>
+        </member>
     </members>
 </doc>
