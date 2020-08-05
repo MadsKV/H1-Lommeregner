@@ -2,6 +2,9 @@
 
 namespace Calculator_mehtods
 {
+    /// <summary>
+    /// Calculator methods
+    /// </summary>
     public static class methodsClass
     {
         /// <summary>
