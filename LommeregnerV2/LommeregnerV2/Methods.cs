@@ -11,7 +11,12 @@ namespace Calculator_mehtods
             double answer = number1 + number2;
             return answer;
         }
-
+        /// <summary>
+        /// Divide the 2 number 
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <returns></returns>
         public static double Divide(double x, double y)
         {
             double number1 = x;
