@@ -28,7 +28,7 @@ namespace Calculator_mehtods
             return answer;
         }
 
-        public static double Minus(double x, double y)
+        public static double Substraction(double x, double y)
         {
             double number1 = x;
             double number2 = y;
