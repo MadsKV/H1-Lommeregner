@@ -1,8 +1,8 @@
 using System;
 using Xunit;
 using System.Collections.Generic;
-//using GPOpgaver;
-using GPOpgaveløsning;
+using GPOpgaver;
+//using GPOpgaveløsning;
 
 namespace XUnitTestGPOpgaver
 {

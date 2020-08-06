@@ -901,16 +901,6 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
-      },
-      "GPOpgaveløsning/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/GPOpgaveløsning.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/GPOpgaveløsning.dll": {}
-        }
       }
     }
   },
@@ -3504,16 +3494,11 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
-    },
-    "GPOpgaveløsning/1.0.0": {
-      "type": "project",
-      "path": "../GPOpgaveløsning/GPOpgaveløsning.csproj",
-      "msbuildProject": "../GPOpgaveløsning/GPOpgaveløsning.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "GPOpgaveløsning >= 1.0.0",
+      "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaveløsning\\GPOpgaveløsning.csproj",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
       "coverlet.collector >= 1.2.0",
       "xunit >= 2.4.0",
@@ -3521,27 +3506,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lkri\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\MadsV\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lkri\\Documents\\Undervisningsmateriale\\GrundlæggendeProgrammering\\Opgaver\\Algorithms\\GPOpgaveløsning\\XUnitTestGPOpgaver\\XUnitTestGPOpgaver.csproj",
+      "projectUniqueName": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\XUnitTestGPOpgaver\\XUnitTestGPOpgaver.csproj",
       "projectName": "XUnitTestGPOpgaver",
-      "projectPath": "C:\\Users\\lkri\\Documents\\Undervisningsmateriale\\GrundlæggendeProgrammering\\Opgaver\\Algorithms\\GPOpgaveløsning\\XUnitTestGPOpgaver\\XUnitTestGPOpgaver.csproj",
-      "packagesPath": "C:\\Users\\lkri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lkri\\Documents\\Undervisningsmateriale\\GrundlæggendeProgrammering\\Opgaver\\Algorithms\\GPOpgaveløsning\\XUnitTestGPOpgaver\\obj\\",
+      "projectPath": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\XUnitTestGPOpgaver\\XUnitTestGPOpgaver.csproj",
+      "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\XUnitTestGPOpgaver\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lkri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -3553,8 +3531,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\lkri\\Documents\\Undervisningsmateriale\\GrundlæggendeProgrammering\\Opgaver\\Algorithms\\GPOpgaveløsning\\GPOpgaveløsning\\GPOpgaveløsning.csproj": {
-              "projectPath": "C:\\Users\\lkri\\Documents\\Undervisningsmateriale\\GrundlæggendeProgrammering\\Opgaver\\Algorithms\\GPOpgaveløsning\\GPOpgaveløsning\\GPOpgaveløsning.csproj"
+            "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaveløsning\\GPOpgaveløsning.csproj": {
+              "projectPath": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaveløsning\\GPOpgaveløsning.csproj"
             }
           }
         }
@@ -3600,8 +3578,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaveløsning\\GPOpgaveløsning.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaveløsning\\GPOpgaveløsning.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

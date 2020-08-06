@@ -8,27 +8,20 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\lkri\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\MadsV\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lkri\\Documents\\Undervisningsmateriale\\GrundlæggendeProgrammering\\Opgaver\\Algorithms\\GPOpgaver\\GPOpgaver\\GPOpgaver.csproj",
+      "projectUniqueName": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaver\\GPOpgaver.csproj",
       "projectName": "GPOpgaver",
-      "projectPath": "C:\\Users\\lkri\\Documents\\Undervisningsmateriale\\GrundlæggendeProgrammering\\Opgaver\\Algorithms\\GPOpgaver\\GPOpgaver\\GPOpgaver.csproj",
-      "packagesPath": "C:\\Users\\lkri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lkri\\Documents\\Undervisningsmateriale\\GrundlæggendeProgrammering\\Opgaver\\Algorithms\\GPOpgaver\\GPOpgaver\\obj\\",
+      "projectPath": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaver\\GPOpgaver.csproj",
+      "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaver\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lkri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -65,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

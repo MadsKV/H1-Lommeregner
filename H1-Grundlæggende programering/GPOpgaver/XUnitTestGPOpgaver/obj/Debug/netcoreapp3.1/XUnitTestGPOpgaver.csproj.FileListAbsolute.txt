@@ -199,3 +199,5 @@ C:\Users\lkri\Documents\Undervisningsmateriale\GrundlæggendeProgrammering\Opgav
 C:\Users\lkri\Documents\Undervisningsmateriale\GrundlæggendeProgrammering\Opgaver\Algorithms\GPOpgaveløsning\XUnitTestGPOpgaver\obj\Debug\netcoreapp3.1\XUnitTestGPOpgaver.AssemblyInfo.cs
 C:\Users\lkri\Documents\Undervisningsmateriale\GrundlæggendeProgrammering\Opgaver\Algorithms\GPOpgaveløsning\XUnitTestGPOpgaver\obj\Debug\netcoreapp3.1\XUnitTestGPOpgaver.csproj.CopyComplete
 C:\Users\lkri\Documents\Undervisningsmateriale\GrundlæggendeProgrammering\Opgaver\Algorithms\GPOpgaveløsning\XUnitTestGPOpgaver\obj\Debug\netcoreapp3.1\XUnitTestGPOpgaver.genruntimeconfig.cache
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\H1-Grundlæggende programering\GPOpgaver\XUnitTestGPOpgaver\obj\Debug\netcoreapp3.1\XUnitTestGPOpgaver.dll
+C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\H1-Grundlæggende programering\GPOpgaver\XUnitTestGPOpgaver\obj\Debug\netcoreapp3.1\XUnitTestGPOpgaver.pdb
