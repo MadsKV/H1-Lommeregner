@@ -11,8 +11,3 @@ C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netco
 C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.dll
 C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.pdb
 C:\Users\lkri\source\repos\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.genruntimeconfig.cache
-C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\H1-Grundlæggende programering\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.csprojAssemblyReference.cache
-C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\H1-Grundlæggende programering\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.AssemblyInfoInputs.cache
-C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\H1-Grundlæggende programering\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.AssemblyInfo.cs
-C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\H1-Grundlæggende programering\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.dll
-C:\Users\MadsV\OneDrive\Dokumenter\GitHub\H1-Lommeregner\H1-Grundlæggende programering\CleanCodeExersises\CleanCodeExersises\obj\Debug\netcoreapp3.1\CleanCodeExersises.pdb

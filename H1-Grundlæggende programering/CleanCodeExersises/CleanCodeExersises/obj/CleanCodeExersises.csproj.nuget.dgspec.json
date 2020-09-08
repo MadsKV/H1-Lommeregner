@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\CleanCodeExersises.csproj": {}
+    "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\CleanCodeExersises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\CleanCodeExersises.csproj": {
+    "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\CleanCodeExersises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\CleanCodeExersises.csproj",
+        "projectUniqueName": "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\CleanCodeExersises.csproj",
         "projectName": "CleanCodeExersises",
-        "projectPath": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\CleanCodeExersises.csproj",
-        "packagesPath": "C:\\Users\\MadsV\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MadsV\\OneDrive\\Dokumenter\\GitHub\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\obj\\",
+        "projectPath": "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\CleanCodeExersises.csproj",
+        "packagesPath": "C:\\Users\\Elder\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\CleanCodeExersises\\CleanCodeExersises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MadsV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elder\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

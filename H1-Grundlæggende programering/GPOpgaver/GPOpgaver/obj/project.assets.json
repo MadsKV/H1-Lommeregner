@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaver.csproj",
+      "projectUniqueName": "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaver\\GPOpgaver.csproj",
       "projectName": "GPOpgaver",
-      "projectPath": "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaver.csproj",
+      "projectPath": "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaver\\GPOpgaver.csproj",
       "packagesPath": "C:\\Users\\Elder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\obj\\",
+      "outputPath": "C:\\Users\\Elder\\source\\repos\\H1-Lommeregner\\H1-Grundlæggende programering\\GPOpgaver\\GPOpgaver\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elder\\AppData\\Roaming\\NuGet\\NuGet.Config",
