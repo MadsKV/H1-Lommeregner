@@ -32,9 +32,10 @@ namespace CleanCodeExersises
          */
         public bool IsLegalDrikingAgeClean(int age)
         {
-            new NotImplementedException();
+            //throw new NotImplementedException();
             //Write your solution here
-            
+            const int LegalDrinkingAge = 21;
+            return (age > LegalDrinkingAge);
         }
         /*
          * Be positive exersise
@@ -55,10 +56,19 @@ namespace CleanCodeExersises
         /*
          * Solution to Be positive exersise
          */
-        public bool IsLoggedInClean()
+        public bool IsLoggedInClean(bool isLoggedIn)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
             //Write your solution here
+            if (isLoggedIn == true)
+            {
+                System.Console.WriteLine("Succesfully logged in.");
+                return true;
+            }
+
+                System.Console.WriteLine("Failed to log in");
+                return false;
+
         }
         /*
          * Intermediate exercise
@@ -81,10 +91,16 @@ namespace CleanCodeExersises
          * Solution to ohm Intermediate exercise
          * An intermediate Variable says a lot more them a long expression
          */
-        public bool eligibleClean()
+        public bool eligibleClean(Employee employee)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
             //Write your solution here
+            const int RetireAge = 55;
+            const int YearsEmployed = 10;
+            bool isEligilbleForPension = employee.Age > RetireAge
+                && employee.YearsEmployed > YearsEmployed
+                && employee.IsRetired;
+            return (isEligilbleForPension);
         }
         
         /*
@@ -104,10 +120,14 @@ namespace CleanCodeExersises
          * Solution to Ternary exersise
          * Use a oneline Ternary.
          */
-        public double GetPriceClean()
+        public double GetPriceClean(bool isPreordered)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
             //Write your solution here
+            const double Preordered = 200.00;
+            const double NotPreordered = 350.00;
+            return (isPreordered) ? Preordered : NotPreordered;
+
         }
         /*
          * Strong type exersise - not done
@@ -115,5 +135,4 @@ namespace CleanCodeExersises
 
     }
 }
-
 
